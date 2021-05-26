@@ -1,0 +1,65 @@
+
+/* Elements */
+body {
+    background-color: white;
+    font-size: 12pt;
+    font-weight: 400;
+    color: #333;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: pink;
+    height: auto;
+    padding: 20px;
+    margin: 0px;
+}
+
+article {
+    width: 100%;
+    padding: 30px 100px;
+    box-sizing: border-box
+}
+
+footer {
+    color: black;
+    background-color: pink;
+    text-align: center;
+    height: auto;
+    padding: 20px;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    
+}
+
+p {
+    text-align: justify;
+    margin: .5rem 0px;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    margin: 10px 25px 25px 10px;
+}
+
+/* Ids */
+#page-title {
+    color: goldenrod;
+    text-align: center;
+}
+
+
+
+/* Classes */
+p {
+    color: purple;
+}
