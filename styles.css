@@ -10,6 +10,7 @@ body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+    font-family: cursive;
 }
 
 header {
@@ -32,17 +33,25 @@ footer {
     height: auto;
     padding: 20px;
     margin: 0px;
+    font-style: italic;
 }
 
 h1 {
     font-size: 3.5rem;
-    font-weight: 700;
-    
+    font-weight: 700;   
+}
+
+h2 {
+    color: goldenrod;
+    text-align: center;
+    font-style: italic;
+    font-size: 20pt;
 }
 
 p {
     text-align: justify;
     margin: .5rem 0px;
+    color: purple;
 }
 
 img {
@@ -55,11 +64,9 @@ img {
 #page-title {
     color: goldenrod;
     text-align: center;
+    font-style: italic;
 }
 
 
 
 /* Classes */
-p {
-    color: purple;
-}
