@@ -49,7 +49,7 @@ h2 {
 }
 
 p {
-    text-align: justify;
+    text-align: center;
     margin: .5rem 0px;
     color: purple;
 }
@@ -70,3 +70,12 @@ img {
 
 
 /* Classes */
+.right {
+    float: right;
+}
+    .left {
+        float: left;
+    }
+    
+
+
